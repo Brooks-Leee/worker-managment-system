@@ -1,0 +1,7 @@
+﻿  fuction_practice.cpp
+D:\Cpp_project\HelloWorld\HelloWorld\fuction_practice.cpp(13,2): error C2065: “string”: 未声明的标识符
+D:\Cpp_project\HelloWorld\HelloWorld\fuction_practice.cpp(13,9): error C2146: 语法错误: 缺少“;”(在标识符“names”的前面)
+D:\Cpp_project\HelloWorld\HelloWorld\fuction_practice.cpp(13,9): error C2065: “names”: 未声明的标识符
+D:\Cpp_project\HelloWorld\HelloWorld\fuction_practice.cpp(13,15): error C2059: 语法错误:“]”
+D:\Cpp_project\HelloWorld\HelloWorld\fuction_practice.cpp(13,19): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\Cpp_project\HelloWorld\HelloWorld\fuction_practice.cpp(13,48): error C2143: 语法错误: 缺少“;”(在“}”的前面)
